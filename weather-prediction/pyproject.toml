@@ -1,0 +1,9 @@
+[project]
+name = "weather-prediction"
+version = "0.1.0"
+description = "天気予報の予測サンプル — ブログ記事「広告の『学習』って何してるの？」"
+requires-python = ">=3.10"
+dependencies = [
+    "scikit-learn>=1.3.0",
+    "pandas>=2.0.0",
+]
