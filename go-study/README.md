@@ -18,6 +18,18 @@ VSCode で左右に開いて、README を読みながらコードを書き換え
 | 009 | error_handling | errors.Is/As, defer, panic/recover |
 | 010 | goroutine | chan, select, WaitGroup, ワーカープール |
 | 011 | package | 公開/非公開, サブパッケージ |
+| 012 | pointer | &, *, 値渡し/ポインタ渡し, nil |
+| 013 | testing | go test, テーブル駆動テスト, カバレッジ |
+| 014 | net_http | 標準ライブラリで Web API, ミドルウェア |
+| 015 | gin | gin フレームワーク, バインド, グループルーティング |
+| 016 | database | GORM, CRUD, リレーション, トランザクション |
+| 017 | project_structure | cmd/ internal/ pkg/ レイヤー構成 |
+| 018 | context | タイムアウト, キャンセル, 値の伝搬 |
+| 019 | generics | 型パラメータ, 制約, ジェネリック構造体 |
+| 020 | cli_cobra | cobra CLI, サブコマンド, フラグ |
+| 021 | docker_deploy | マルチステージビルド, Makefile, クロスコンパイル |
+| 022 | json | 構造体タグ, Marshal/Unmarshal, カスタム型 |
+| 023 | io | io.Reader/Writer, ファイル操作, bufio |
 
 ---
 
